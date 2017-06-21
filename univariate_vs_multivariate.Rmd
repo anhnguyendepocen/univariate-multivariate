@@ -74,7 +74,7 @@ p = p + labs(title   = 'Univariate versus multivariate',
 ```
 
 #### Plot
-```{r}
+```{r, dpi=60, out.width="800", out.height="450"}
 p
 ```
 
